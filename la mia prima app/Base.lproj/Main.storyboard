@@ -18,9 +18,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9I6-jL-o1q">
-                                <rect key="frame" x="137" y="430" width="150" height="48"/>
+                                <rect key="frame" x="127" y="429" width="173" height="54"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="35"/>
                                 <state key="normal" title="Hello World">
                                     <color key="titleColor" systemColor="systemBackgroundColor"/>
                                 </state>
